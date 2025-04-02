@@ -16,4 +16,3 @@ A Java Swing-based food ordering system that allows users to select food, drinks
 - Java Swing (GUI)
 - AWT (Event Handling)
 - ImageIO (Image Loading)
-
