@@ -17,7 +17,3 @@ A Java Swing-based food ordering system that allows users to select food, drinks
 - AWT (Event Handling)
 - ImageIO (Image Loading)
 
-## 🔧 Installation
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/Armita-07/Food-Ordering-System.git
